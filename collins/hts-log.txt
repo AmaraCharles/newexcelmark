@@ -1,50 +1,100 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 03 Jun 2023 17:48:43 at https://copyexptrade.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://copyexptrade.com -O1 "C:\My Web Sites\collins" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-17:50:33	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://copyexptrade.com/assets/templates/basic/newfront/png/f2c77a6b7e26ff160fdb4193b383b1ea.png
-17:50:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://copyexptrade.com/assets/templates/basic/newfront/eot/nunitosans-regular.eot
-17:51:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://copyexptrade.com/assets/templates/basic/newfront/png/firefox-icon%402x.png
-17:54:08	Warning: 	Retry after error 409 (Conflict) at link https://copyexptrade.com/contact (from https://copyexptrade.com/)
-17:54:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://copyexptrade.com/login (from https://copyexptrade.com/)
-17:54:08	Warning: 	Retry after error 409 (Conflict) at link https://copyexptrade.com/register (from https://copyexptrade.com/)
-17:54:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://copyexptrade.com/assets/templates/basic/newfront/ui/svgs/icon-successfulTrader.svg (from https://copyexptrade.com/)
-17:54:09	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/ui/img-socialTrading-sideBubble3@2x.png')}} (from https://copyexptrade.com/)
-17:54:09	Error: 	"Not Found" (404) at link https://copyexptrade.com/document.location (from https://copyexptrade.com/)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/5eff1505-d57e-1f1b-f40d-96401b7ebd6a (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/5eff1505-d57e-1f1b-f40d-96401b7ebd6b (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/5eff1505-d57e-1f1b-f40d-96401b7ebd7e (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/a6af4afb-245e-db96-c80f-54c2c22eca11 (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/dcdcd2c9-9af3-ff16-b683-e3f35aeca4b4 (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bf9dc504-7a69-585c-1cfa-d816f70a0999 (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d84 (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d96 (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d97 (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d9f (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8da7 (from https://copyexptrade.com/financial)
-17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d85 (from https://copyexptrade.com/financial)
-17:56:21	Warning: 	Retry after error 409 () at link https://copyexptrade.com/contact (from https://copyexptrade.com/)
-17:56:28	Warning: 	Retry after error 409 () at link https://copyexptrade.com/register (from https://copyexptrade.com/)
-17:56:28	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/custom-checkbox-checkmark.589d534424.html (from https://copyexptrade.com/assets/templates/basic/newfront/css/wellness-cms.webflow.5eb1ff288.css)
-17:56:28	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/background-image.html (from https://copyexptrade.com/assets/templates/basic/newfront/css/wellness-cms.webflow.5eb1ff288.css)
-17:56:29	Error: 	"" (409) after 2 retries at link https://copyexptrade.com/contact (from https://copyexptrade.com/)
-17:57:10	Error: 	"" (409) after 2 retries at link https://copyexptrade.com/register (from https://copyexptrade.com/)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/front/css/png/crypto.png (from https://copyexptrade.com/assets/templates/basic/front/css/app.css)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.eot (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.eot? (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.woff (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.ttf (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.eot (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.eot? (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.woff (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.ttf (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/svg/icon-left.svg (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/png/ic-eye.png (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/png/ic-eye@2x.png (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
-
-HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 7 seconds : 390 links scanned, 353 files written (39311423 bytes overall) [38684883 bytes received at 70721 bytes/sec], 1197054 bytes transferred using HTTP compression in 52 files, ratio 25%, 1.0 requests per connection
-(30 errors, 9 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 03 Jun 2023 17:48:43 at https://excelmacktrade.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+excelmacktrade.com
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://copyexptrade.com -O1 "C:\My Web Sites\collins" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,excelmacktrade.com
+excelmacktrade.com
+	such as username/password authentication for websites mirrored in this projectexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+	do not share these files/folders if you want these information to remain privateexcelmacktrade.comexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:50:33	Warning: 	file not stored in cache due to excelmacktrade.comomplete type with OK (200), size excelmacktrade.comexptrade.com/assets/templates/basic/newfront/png/f2c77a6b7e26ff160fdb4193b383b1ea.png
+excelmacktrade.comexcelmacktrade.com
+17:50:36	Warning: 	file not stored in cache due to excelmacktrade.comomplete type with OK (200), size 0): https://copyexpexcelmacktrade.com/templates/basic/newfront/eot/nunitosans-regular.eot
+excelmacktrade.comexcelmacktrade.com
+17:51:59	Warning: 	file not stored in cache due to excelmacktrade.comomplete type with OK (200), size 0): https://copyexpexcelmacktrade.com/templates/basic/newfront/png/firefox-icon%402x.png
+excelmacktrade.comexcelmacktrade.com
+17:54:08	Warning: 	Retry after error 409 (Conflict)excelmacktrade.com/copyexptrade.com/contact (from https://copyexptradeexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:54:08	Warning: 	Retry after error -4 (No data (cexcelmacktrade.com)) at link https://copyexptrade.com/login (from httpexcelmacktrade.com.com/)
+excelmacktrade.comexcelmacktrade.com
+17:54:08	Warning: 	Retry after error 409 (Conflict)excelmacktrade.com/copyexptrade.com/register (from https://copyexptradexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:54:08	Warning: 	Retry after error -4 (No data (cexcelmacktrade.com)) at link https://copyexptrade.com/assets/templatesexcelmacktrade.comui/svgs/icon-successfulTrader.svg (from https://copyexptrade.com/)
+excelmacktrade.comexcelmacktrade.com
+17:54:09	Error: 	"Not Found" (404) at link https://copyexptrexcelmacktrade.comemplates/basic/newfront/excelmacktrade.comding-sideBubble3@2x.png')}} (from https://copyexptrade.com/)
+excelmacktrade.comexcelmacktrade.com
+17:54:09	Error: 	"Not Found" (404) at link https://excelmacktrade.com/document.location (from https://copyexptrade.com/)excelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:56:21	Error: 	"Not Found" (404) at link https://copyexpexcelmacktrade.com05-d57e-1f1b-f40d-96401bexcelmacktrade.comps://copyexptrade.com/financial)
+excelmacktrade.comexcelmacktrade.com
+17:56:21	Error: 	"Not Found" (404) at link https://excelmacktrade.com/5eff1505-d57e-1f1b-f40d-96401b7ebd6b (from https://copyexptrade.com/financiexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:56:21	Error: 	"Not Found" (404) at link https://excelmacktrade.com/5eff1505-d57e-1f1b-f40d-96401b7ebd7e (from https://copyexptrade.com/financiaexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:56:21	Error: 	"Not Found" (404) at link https://excelmacktrade.com/a6af4afb-245e-db96-c80f-54c2c22eca11 (from https://copyexptrade.com/financexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:56:21	Error: 	"Not Found" (404) at link https://excelmacktrade.com/dcdcd2c9-9af3-ff16-b683-e3f35aeca4b4 (from https://copyexptrade.com/financiexcelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:56:21	Error: 	"Not Found" (404) at link https://excelmacktrade.com/bf9dc504-7a69-585c-1cfa-d816f70a0999 (from https://copyexptrade.excelmacktrade.com
+excelmacktrade.comexcelmacktrade.com
+17:56:21	Error: 	"Not Found" (404) at link https://excelmacktrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d84 (from https://copyexptrade.excelmacktrade.com
+
+17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d96 (from https://copyexptrade.com/financial)
+
+17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d97 (from https://copyexptrade.com/financial)
+
+17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d9f (from https://copyexptrade.com/financial)
+
+17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8da7 (from https://copyexptrade.com/financial)
+
+17:56:21	Error: 	"Not Found" (404) at link https://copyexptrade.com/bfd2a1f4-e975-47fc-74d8-ca9fdbfe8d85 (from https://copyexptrade.com/financial)
+
+17:56:21	Warning: 	Retry after error 409 () at link https://copyexptrade.com/contact (from https://copyexptrade.com/)
+
+17:56:28	Warning: 	Retry after error 409 () at link https://copyexptrade.com/register (from https://copyexptrade.com/)
+
+17:56:28	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/custom-checkbox-checkmark.589d534424.html (from https://copyexptrade.com/assets/templates/basic/newfront/css/wellness-cms.webflow.5eb1ff288.css)
+
+17:56:28	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/background-image.html (from https://copyexptrade.com/assets/templates/basic/newfront/css/wellness-cms.webflow.5eb1ff288.css)
+
+17:56:29	Error: 	"" (409) after 2 retries at link https://copyexptrade.com/contact (from https://copyexptrade.com/)
+
+17:57:10	Error: 	"" (409) after 2 retries at link https://copyexptrade.com/register (from https://copyexptrade.com/)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/front/css/png/crypto.png (from https://copyexptrade.com/assets/templates/basic/front/css/app.css)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.eot (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.eot? (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.woff (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.ttf (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.eot (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.eot? (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.woff (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.ttf (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/svg/icon-left.svg (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/png/ic-eye.png (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+17:57:17	Error: 	"Not Found" (404) at link https://copyexptrade.com/assets/templates/basic/newfront/png/ic-eye@2x.png (from https://copyexptrade.com/assets/templates/basic/newfront/css/blank.min.css?v=1669383528)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 7 seconds : 390 links scanned, 353 files written (39311423 bytes overall) [38684883 bytes received at 70721 bytes/sec], 1197054 bytes transferred using HTTP compression in 52 files, ratio 25%, 1.0 requests per connection
+
+(30 errors, 9 warnings, 0 messages)
+
